@@ -1,0 +1,12 @@
+npm install -g @angular/cli
+
+ng new my-dream-app
+
+cd my-dream-app
+ng serve 
+
+ng  new hello-world
+
+
+--create new componennt call test
+ng  g c test
